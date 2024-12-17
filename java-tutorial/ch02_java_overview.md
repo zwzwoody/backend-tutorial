@@ -111,13 +111,14 @@ public static void main(String[] args)
 
 Java语言严格区分大小写。
 
-**一个源文件中最多只能有一个public类。其它类的个数不限**。每个类对应一个class。
+**一个源文件中最多只能有一个public类。其它类的个数不限**。.java文件编译后，每个类对应一个.class文件。
 
 如果源文件包含一个public类，则文件名必须按该类名命名!
 
 一个源文件中最多只能有一个public类。其它类的个数不限，也可以将main方法写在非public类中，然后指定运行非public类，这样入口方法就是非public 的main方法。
 
 Java方法是由一条条语句构成的，每个语句以";"结束
+
 
 ```java
 //这是java的快速入门， 演示java的开发步骤
@@ -241,7 +242,7 @@ public class Comment02 {
 
 ### DOS 介绍
 
-Dos：Disk Operating System 磁盘操作系统, 简单说一下windows 的目录结构。
+Dos：Disk Operating System 磁盘操作系统, 也就是windows的控制台，简单说一下windows 的目录结构。
 
 ### 常用的dos 命令
 
