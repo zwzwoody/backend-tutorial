@@ -22,18 +22,20 @@
 
 ![](https://raw.githubusercontent.com/timerring/scratchpad2023/main/2023/04/11-19-21-29-1681212087.png)
 
+分支结构最好不超过三层，不然代码可读性很差
+
 ## switch 分支结构
 
 ```java
 switch(表达式){
-    case常量1;
+    case常量1:
     语句块1;
     break;
-    case常量2;
+    case常量2:
     语句块2;
     break;
     ...
-    case常量n;
+    case常量n:
     语句块n;
     break;
 
