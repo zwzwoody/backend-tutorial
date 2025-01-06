@@ -77,7 +77,7 @@
 11) 自动的分配变量名, 通过在后面加`.var`
 
 ## 模板快捷键
-1）sout = System.out.println
+1) sout = System.out.println
 
 2) fori = for(int i = 0; i < ...; i++)
    
