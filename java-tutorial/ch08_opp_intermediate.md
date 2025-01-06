@@ -78,7 +78,9 @@
 
 ## 模板快捷键
 1）sout = System.out.println
+
 2) fori = for(int i = 0; i < ...; i++)
+   
 3) main = public static void main(String[] args)
 
 ## 包
