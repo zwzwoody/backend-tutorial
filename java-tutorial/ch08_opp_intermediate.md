@@ -76,6 +76,11 @@
 10) 将光标放在一个方法上，输入 `ctrl + B` , 可以定位到方法
 11) 自动的分配变量名, 通过在后面加`.var`
 
+## 模板快捷键
+1）sout = System.out.println
+2) fori = for(int i = 0; i < ...; i++)
+3) main = public static void main(String[] args)
+
 ## 包
 
 ### 包的三大作用
